@@ -50,6 +50,6 @@ To know full details, refer to the PDF provided.
 
 Feel free to reach out for any questions or contributions. Your feedback is highly appreciated!
 
-**Contact:** nghosh0711@gmail.com
+**Contact:** csz248005@cse.iitd.ac.in
 
 **Acknowledgments:** Thanks to all contributors and the providers of the datasets.
